@@ -59,7 +59,7 @@ tags:
 8. **Fara Nur Azizah - PNJ - Teknik Perancangan Jalan dan Jembatan, Konsentrasi Jalan Tol**
 
 
-**NB: 
+**NB:**
 1. Cetak tebal = diterima 2 jalur
 2. Coret = tidak diambil siswa 
 </div>
