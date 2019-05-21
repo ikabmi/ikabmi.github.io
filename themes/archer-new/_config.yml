@@ -1,6 +1,6 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/ikabmi.png
 # author name
 author: IKABMI
 # signature
@@ -30,6 +30,7 @@ social:
   rss: 
 # friends
 friends:
+  enable: false
   friendA:
   friendB:
   friendC: 
@@ -46,11 +47,11 @@ SEO_keywords:
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Ikatan Keluarga Besar MA Manaratul Islam.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: Sebuah Perkumpulan yang Mewadahi Lulusan MA Manaratul Islam
 # site haeder image
-site_header_image: '/intro/index-bg.jpg'
+site_header_image: '/intro/manis.jpg'
 # post haeder image
 post_header_image: '/intro/post-bg.jpg'
 # 404 image
@@ -117,4 +118,4 @@ about_intro_height: 50
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  license: 'This article uses <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-Noncommercial Use 4.0 International License Agreement</a> for permission'
