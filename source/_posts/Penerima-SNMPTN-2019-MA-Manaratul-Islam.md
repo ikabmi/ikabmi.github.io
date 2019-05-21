@@ -1,5 +1,5 @@
 ---
-title: Penerima SNMPT 2019 MA Manaratul Islam
+title: Penerima SNMPTN, SPAN-PTKIN dan PMDK-PN 2019 MA Manaratul Islam
 date: 2019-05-21 20:55:10
 tags:
 ---
