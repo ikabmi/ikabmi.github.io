@@ -3,7 +3,7 @@ node_js:
 - stable
 branches:
   only:
-  - source
+  - dev
 
 install: npm install
 
