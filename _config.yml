@@ -8,8 +8,8 @@ subtitle:
 description: Website Resmi kumpulan para Alumni MA Manaratul Islam
 keywords:
 author: Admin
-language:
-timezone:
+language: id_ID
+timezone: Asia/Jakarta
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
