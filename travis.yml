@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+- stable
+branches:
+  only:
+  - source
+
+install: npm install
+
+before_script:
+- git config --global user.name "ikabmi"
+- git config --global user.email "ikabmi.manis@gmail.com"
+- sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+
+script:
+- hexo clean
+- hexo g
+- hexo d
+
+
