@@ -79,7 +79,7 @@ theme: archer
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ikabmi/ikabmi.github.io
+  repo: https://__GITHUB_TOKEN__@github.com/ikabmi/ikabmi.github.io.git
   branch: master
 
 jsonContent:
