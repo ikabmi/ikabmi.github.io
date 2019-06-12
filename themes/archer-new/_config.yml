@@ -30,7 +30,7 @@ social:
   rss: 
 # friends
 friends:
-  enable: false
+  enable: true
   friendA:
   friendB:
   friendC: 
